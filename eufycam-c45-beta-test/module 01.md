@@ -24,5 +24,7 @@
 
 **Power:** Currently running on battery. The doorbell is wired up, but I found out its transformer is connected to an outlet box that is now on switched power, so it loses power whenever the light switch at the bottom of our stairs is off. D'oh! Another addition to my ever-growing to-do list. I'll report back on wired power once that's sorted.
 
+On the plus side, the power-loss handling worked well: the app notified me that wired power was lost, and the doorbell switched to its battery without any interruption. I'll report back on wired power once the switch issue is sorted.
+
 **Suggestions:**
 Match the wire openings on the angle and regular brackets so wires can pass straight through both.
