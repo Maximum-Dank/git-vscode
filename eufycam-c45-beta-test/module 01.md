@@ -1,36 +1,16 @@
 # Module 01: Unboxing & Installation
 
-Cristin(eufy)
-OP — 9/17/26, 11:35 PM
-Hello @everyone ！
-Welcome to the C45 Dual-Camera Doorbell Beta! 🔔 Our first stop is Unboxing & Installation — from the moment you open the box to the moment your doorbell is up and running. 
+Packaging: I'm not very particular about this kind of thing, the box was solid and easy to open. Inside packaging - brown cardboard is fine by me, the innards were clearly divided and well put together.  
 
-Please pay attention to:
-Packaging: How's the packaging? Sturdy, clean, satisfying to open?
+Product appearance: Everything looked shiny & new, doorbell had the plastic protective film that was simple to remove.  Feels solid, a bit heavy, I'm assuming that's due to the beefy internal battery.   The chime was light and unassuming, perfecly plain for leaving plugged in around the entry area of our home.
 
-Packaging: I'm not very particular about this stuff, box was solid and easy to open. Inside packaging - brown cardboard is fine by me, the innards were clearly divided,  
+Accessories check: All expected items were included, downloaded the quick start guide that wasn't included in this particular box.
 
-Packaging was [Sturdy / clean / satisfying to open?] The outer box looks [premium / on-brand with other Anker/eufy products]. Inside, [the plain brown cardboard felt less premium than the outside / I liked the recycled cardboard]. [Anything about the positioning sticker, the pin location, or how the parts were wrapped.]
+App pairing & WiFi setup: This was simple and straightfoward as well used the add device with the QR code for the doorbell and chime and joined it to my home IoT network.  Firmware update went smoothly
 
-
-Product appearance: how do the doorbell's size and finish feel? Any dents or scratches?
-
-Accessories check: are all items included?
-
-App pairing & WiFi setup: was binding smooth? Was the in-app guidance clear?
-
-Chime pairing: plug the Chime into an indoor outlet and pair it — does it ring indoors when the doorbell is pressed?
+Chime pairing: After plugging the chime in for the first time, I was a bit worried initially as it seemed to take a long time for the blue light to come on, but that could just be my impatience!  Used the add device with the QR code for chime and joined it to my home IoT network.  Firmware update seemed to get stuck on the chime.  It seemed to download just fine, but maybe after rebooting?  the chime in the app was indicating it was still updating and that never resolved itself.  Eventually I power cycled the chime and after it came back online it was updated and resposive in the app.
 
 Installation:
-1️⃣ How easy was mounting the doorbell and bracket? Could you adjust the angle?
-2️⃣ How was the drilled installation / 3M adhesive installation experience?
+My initial installation was very easy as the mounting holes for my last Eufy doorbell exactly lined up with this new device.  I used the angle bracket and the mounting bracket.  No issues with my first install with the doorbell using battery power only.
 
-📸 Once installed, please let me know whether you chose to use the battery or wired power, and upload 2 photos in this thread (required):
-1️⃣ Installation photo: the doorbell mounted in its final position
-2️⃣ Field-of-view screenshot: the live view in the App, showing both the main camera (full visitor view) and sub-camera (ground/packages) coverage
-
-If you'd rather not post photos publicly, feel free to DM them to @Desita-Anker (Soundcore) (Eufy).
-
-We're excited to see your front door's new look — drop your unboxing impressions below! 📦
-
-📌 Reply in this thread: #01-unboxing-installation
+My second install, or re-installation was me attempting to use my old two wires from my original doorbell to power the new doorbell.  This was a bit more difficult.  The angled bracket has two openings for wires and the way mine lines up with the mounting holes, the wiring has to come through the lower of the two openings on the angled bracket.  The regular bracket only has an upper opening, so you have to feed the wires through the lower opening  on the angled bracket, then use a channel to feed the wires up to the upper opening and then have those wires feed through the main bracket that just has the upper opening.  I felt like I needed three hands for this. Since I was mounting with screws, I had to have the wires all fed correctly before I could get the top screw threaded through both brackets and into the wall to start the mounting.  After getting it securely mounted to the wall, I spliced each pigtail wire to a doorbell wire and tried to flatten all of those wires into that upper opening of the brackets so that my doorbell wouldn't be prevented from closing.  I made the connections to the screws on the back of the doorbell, there's not a lot of room for me to work because my doorbell is so close to a wall on the left of it.  I was able to push the doorbell into its mounting bracket, but it wasn't easy and there was no satisfying "click" to indicate my connection was sturdy.  I tried to pull it out without success, so I know it connected, but I used the pin to un-connect it a few times and re-tried that process a couple of times just to make sure it was securely in place.
